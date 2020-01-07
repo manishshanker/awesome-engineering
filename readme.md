@@ -1,8 +1,19 @@
 *This is an awesome list of awesome curated list, to help you with engineering of your solution in an organisation.* 
 
+![](https://i.pinimg.com/originals/ea/ba/92/eaba92aebcff4399bcd0a64cf576ea46.jpg)
+
+### Principles
+- https://www.geeksforgeeks.org/7-common-programming-principles-that-every-developer-must-follow/
+- https://medium.com/agileactors/4-basic-principles-of-software-engineering-787b495c2870
+
 ### Architecture and design
 - https://github.com/DovAmir/awesome-design-patterns
 - https://www.infoq.com/articles/architecture-trends-2019/
+
+### Agile Development
+https://i.pinimg.com/474x/32/c2/73/32c273ac30146dd8f9fc3fd3e2dcc07a.jpg
+http://cheatsheetworld.com/programming/agile-development-cheat-sheet/
+https://www.scaledagileframework.com
 
 ### Security 
 - https://github.com/qazbnm456/awesome-web-security#tools-scanning
