@@ -6,7 +6,6 @@
 
 ### Principles
 - https://www.geeksforgeeks.org/7-common-programming-principles-that-every-developer-must-follow/
-- https://medium.com/agileactors/4-basic-principles-of-software-engineering-787b495c2870
 
 ### Agile Development
 https://i.pinimg.com/474x/32/c2/73/32c273ac30146dd8f9fc3fd3e2dcc07a.jpg
