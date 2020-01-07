@@ -2,6 +2,8 @@
 
 *_This is an awesome list of awesome curated list and more, to help you with engineering and development of simple and quality focused software solutions for complex problems in an organisation._* 
 
+> Consistent, Secure, Performant, Automated, Measured, Evolve
+
 ### Principles
 - https://www.geeksforgeeks.org/7-common-programming-principles-that-every-developer-must-follow/
 - https://medium.com/agileactors/4-basic-principles-of-software-engineering-787b495c2870
