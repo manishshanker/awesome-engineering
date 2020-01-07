@@ -1,6 +1,6 @@
 ![](https://i.pinimg.com/originals/ea/ba/92/eaba92aebcff4399bcd0a64cf576ea46.jpg)
 
-*_This is an awesome list of awesome curated list and more, to help you with engineering and development of simple and quality focused software solutions for complex problems in an organisation._* 
+*_This is list of awesome curated list and more, to help you with engineering and development of simple and quality focused software solutions for complex problems in an organisation._* 
 
 > Secure, Performant, Consistent, Automated, Measured, Maintainable, Extensible
 
