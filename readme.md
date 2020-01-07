@@ -1,3 +1,5 @@
+*This is an awesome list of awesome curated list, to help you with engineering of your solution in an organisation.* 
+
 ### Web Security 
 https://github.com/qazbnm456/awesome-web-security#tools-scanning
 
