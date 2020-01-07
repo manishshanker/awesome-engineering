@@ -4,6 +4,11 @@
 
 > Consistent, Secure, Performant, Automated, Measured, Evolve
 
+Start Here
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=p0jGmgIrf_M" target="_blank"><img src="http://img.youtube.com/vi/p0jGmgIrf_M/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 ### Principles
 - https://www.geeksforgeeks.org/7-common-programming-principles-that-every-developer-must-follow/
 
@@ -34,6 +39,8 @@ https://www.scaledagileframework.com
 - https://github.com/awesome-soft/awesome-devops
 - https://github.com/devsecops/awesome-devsecops
 - https://www.toptal.com/software/trunk-based-development-git-flow
+- https://github.com/Azure/awesome-terraform
+- https://github.com/shuaibiyy/awesome-terraform
 
 ### Cloud
 - https://github.com/rootsongjc/awesome-cloud-native
