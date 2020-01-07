@@ -48,7 +48,9 @@
 - https://sequencediagram.org
 
 ### All kind of awesomeness
--https://github.com/sindresorhus/awesome
+- https://github.com/sindresorhus/awesome
+
+---
 
 ### Architecture and design trend 2019
 ![Architecture Trend 2019](https://res.infoq.com/articles/architecture-trends-2019/en/resources/1ad-q1-2019@2x-1548192804020.jpg "Logo Title Text 1")
