@@ -11,6 +11,11 @@ https://github.com/csabapalfi/awesome-web-performance-metrics
 https://github.com/rootsongjc/awesome-cloud-native
 https://12factor.net
 
+### Machine learning and AI
+https://hackernoon.com/machine-learning-is-the-emperor-wearing-clothes-59933d12a3cc
+https://medium.com/hackernoon/the-decision-makers-guide-to-starting-ai-72ee0d7044df?
+https://github.com/josephmisiti/awesome-machine-learning
+
 ### NodeJS
 https://github.com/sindresorhus/awesome-nodejs
 
