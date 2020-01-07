@@ -15,9 +15,9 @@
 - https://github.com/mre/awesome-static-analysis
 
 ### DevOps
-https://github.com/awesome-soft/awesome-devops
-https://github.com/devsecops/awesome-devsecops
-https://www.toptal.com/software/trunk-based-development-git-flow
+- https://github.com/awesome-soft/awesome-devops
+- https://github.com/devsecops/awesome-devsecops
+- https://www.toptal.com/software/trunk-based-development-git-flow
 
 ### Cloud
 - https://github.com/rootsongjc/awesome-cloud-native
@@ -29,9 +29,9 @@ https://www.toptal.com/software/trunk-based-development-git-flow
 - https://github.com/josephmisiti/awesome-machine-learning
 
 ### APIs
-https://github.com/Kikobeats/awesome-api
-https://medium.com/apiops
-https://apifriends.com/digital-strategy/8-api-trends-for-2019/
+- https://github.com/Kikobeats/awesome-api
+- https://medium.com/apiops
+- https://apifriends.com/digital-strategy/8-api-trends-for-2019/
 
 ### NodeJS
 - https://github.com/sindresorhus/awesome-nodejs
