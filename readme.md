@@ -1,5 +1,9 @@
 *This is an awesome list of awesome curated list, to help you with engineering of your solution in an organisation.* 
 
+### Architecture and design
+https://github.com/DovAmir/awesome-design-patterns
+https://www.infoq.com/articles/architecture-trends-2019/
+
 ### Security 
 - https://github.com/qazbnm456/awesome-web-security#tools-scanning
 - https://www.owasp.org
@@ -49,8 +53,3 @@
 
 ### All kind of awesomeness
 - https://github.com/sindresorhus/awesome
-
----
-
-### Architecture and design trend 2019
-![Architecture Trend 2019](https://res.infoq.com/articles/architecture-trends-2019/en/resources/1ad-q1-2019@2x-1548192804020.jpg "Logo Title Text 1")
