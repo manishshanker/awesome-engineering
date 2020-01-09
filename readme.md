@@ -1,9 +1,6 @@
 ![](https://i.pinimg.com/originals/ea/ba/92/eaba92aebcff4399bcd0a64cf576ea46.jpg)
 
-*_This is list of awesome curated list and more, to help you with engineering and development of simple and quality focused software solutions for complex problems in an organisation._* 
-
-> Secure, Performant, Consistent, Automated, Measured, Maintainable, Extensible
-
+> *_This page has been created to help with engineering and development of solutions and set the stage up-front to enable building software solutions for complex problems in an organisation, which are secure, performant, consistent, automated, measured, maintainable and extensible, by default in nature._*
 
 #### Principles
 - <a href="http://www.youtube.com/watch?feature=player_embedded&v=p0jGmgIrf_M" target="_blank"><img src="http://img.youtube.com/vi/p0jGmgIrf_M/0.jpg" 
