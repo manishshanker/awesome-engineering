@@ -32,9 +32,10 @@ https://www.scaledagileframework.com
 - https://github.com/mre/awesome-static-analysis
 
 #### Industry Standards
-https://www.w3.org/standards/webdesign/
-https://www.w3.org/WAI/GL/WCAG20/
-https://fueled.com/blog/gdpr-for-app-developers/
+- https://www.w3.org/standards/webdesign/
+- https://www.w3.org/WAI/GL/WCAG20/
+- https://fueled.com/blog/gdpr-for-app-developers/
+- https://github.com/nico3333fr/awesome-a11y
 
 #### DevOps
 - https://github.com/awesome-soft/awesome-devops
@@ -42,9 +43,6 @@ https://fueled.com/blog/gdpr-for-app-developers/
 - https://www.toptal.com/software/trunk-based-development-git-flow
 - https://github.com/Azure/awesome-terraform
 - https://github.com/shuaibiyy/awesome-terraform
-
-#### Standards
-https://github.com/nico3333fr/awesome-a11y
 
 #### ReactJS 
 - https://github.com/enaqx/awesome-react
