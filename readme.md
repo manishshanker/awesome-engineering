@@ -8,9 +8,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 - https://www.geeksforgeeks.org/7-common-programming-principles-that-every-developer-must-follow/
 
 #### Agile Development
-https://i.pinimg.com/474x/32/c2/73/32c273ac30146dd8f9fc3fd3e2dcc07a.jpg
-http://cheatsheetworld.com/programming/agile-development-cheat-sheet/
-https://www.scaledagileframework.com
+- https://i.pinimg.com/474x/32/c2/73/32c273ac30146dd8f9fc3fd3e2dcc07a.jpg
+- http://cheatsheetworld.com/programming/agile-development-cheat-sheet/
+- https://www.scaledagileframework.com
 
 #### Architecture and design
 - https://github.com/DovAmir/awesome-design-patterns
@@ -52,7 +52,7 @@ https://www.scaledagileframework.com
 - https://github.com/matteocrippa/awesome-swift
 
 #### PWAs
-https://github.com/hemanth/awesome-pwa
+- https://github.com/hemanth/awesome-pwa
 
 #### Cloud
 - https://github.com/rootsongjc/awesome-cloud-native
