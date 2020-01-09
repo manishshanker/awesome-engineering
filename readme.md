@@ -4,10 +4,10 @@
 
 > Secure, Performant, Consistent, Automated, Measured, Maintainable, Extensible
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=p0jGmgIrf_M" target="_blank"><img src="http://img.youtube.com/vi/p0jGmgIrf_M/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 #### Principles
+- <a href="http://www.youtube.com/watch?feature=player_embedded&v=p0jGmgIrf_M" target="_blank"><img src="http://img.youtube.com/vi/p0jGmgIrf_M/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 - https://www.geeksforgeeks.org/7-common-programming-principles-that-every-developer-must-follow/
 
 #### Agile Development
