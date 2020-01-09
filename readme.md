@@ -24,11 +24,17 @@ https://www.scaledagileframework.com
 #### Performance
 - https://github.com/davidsonfellipe/awesome-wpo#bundle-analyzer
 - https://github.com/csabapalfi/awesome-web-performance-metrics
+- https://github.com/manishshanker/awesome-react-performance
 
 #### Quality
 - http://ligurio.github.io/awesome-software-quality/
 - https://github.com/joho/awesome-code-review
 - https://github.com/mre/awesome-static-analysis
+
+#### Industry Standards
+https://www.w3.org/standards/webdesign/
+https://www.w3.org/WAI/GL/WCAG20/
+https://fueled.com/blog/gdpr-for-app-developers/
 
 #### DevOps
 - https://github.com/awesome-soft/awesome-devops
@@ -37,12 +43,18 @@ https://www.scaledagileframework.com
 - https://github.com/Azure/awesome-terraform
 - https://github.com/shuaibiyy/awesome-terraform
 
+#### Standards
+https://github.com/nico3333fr/awesome-a11y
+
 #### ReactJS 
 - https://github.com/enaqx/awesome-react
 
 #### Mobile Native
 - https://github.com/jondot/awesome-react-native
 - https://github.com/matteocrippa/awesome-swift
+
+#### PWAs
+https://github.com/hemanth/awesome-pwa
 
 #### Cloud
 - https://github.com/rootsongjc/awesome-cloud-native
