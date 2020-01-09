@@ -24,16 +24,16 @@ https://www.scaledagileframework.com
 - https://www.owasp.org
 - https://github.com/paragonie/awesome-appsec
 
-### Performance
+#### Performance
 - https://github.com/davidsonfellipe/awesome-wpo#bundle-analyzer
 - https://github.com/csabapalfi/awesome-web-performance-metrics
 
-### Quality
+#### Quality
 - http://ligurio.github.io/awesome-software-quality/
 - https://github.com/joho/awesome-code-review
 - https://github.com/mre/awesome-static-analysis
 
-### DevOps
+#### DevOps
 - https://github.com/awesome-soft/awesome-devops
 - https://github.com/devsecops/awesome-devsecops
 - https://www.toptal.com/software/trunk-based-development-git-flow
